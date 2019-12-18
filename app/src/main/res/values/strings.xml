@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Horóscopo chino</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido">Apellido(s)</string>
+    <string name="sig">Continuar</string>
+    <string name="cumple">Fecha de nacimiento</string>
+    <string name="instruccion">Por favor llena todos los campos para continuar</string>
+    <string name="hey">"Hola "</string>
+    <string name="resp">"Tu signo es "</string>
+    <string name="edad">"y tu edad es "</string>
+    <string name="s_rata">rata</string>
+    <string name="s_buey">buey</string>
+    <string name="s_tigre">tigre</string>
+    <string name="s_conejo">conejo</string>
+    <string name="s_dragon">dragon</string>
+    <string name="s_serpiente">serpiente</string>
+    <string name="s_caballo">caballo</string>
+    <string name="s_cabra">cabra</string>
+    <string name="s_mono">mono</string>
+    <string name="s_gallo">gallo</string>
+    <string name="s_perro">perro</string>
+    <string name="s_cerdo">cerdo</string>
+    <string name="espacio" translatable="false">" "</string>
+    <string name="error">Campo obligatorio</string>
+</resources>

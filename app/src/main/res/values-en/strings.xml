@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese horoscope</string>
+    <string name="saludo">Welcome</string>
+    <string name="sig">Next</string>
+    <string name="cumple">Birthday</string>
+    <string name="apellido">Sourname</string>
+    <string name="nombre">Name(s)</string>
+    <string name="instruccion">Please, fill every field to continue</string>
+    <string name="hey">"Hi "</string>
+    <string name="resp">"Your sign is "</string>
+    <string name="edad">"and your age is "</string>
+    <string name="s_rata">rat</string>
+    <string name="s_tigre">tiger</string>
+    <string name="s_buey">ox</string>
+    <string name="s_caballo">horse</string>
+    <string name="s_conejo">rabbit</string>
+    <string name="s_dragon">dragon</string>
+    <string name="s_serpiente">snake</string>
+    <string name="s_perro">dog</string>
+    <string name="s_mono">monkey</string>
+    <string name="s_gallo">rooster</string>
+    <string name="s_cerdo">pig</string>
+    <string name="s_cabra">goat</string>
+    <string name="error">required field</string>
+</resources>
